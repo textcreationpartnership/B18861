@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The certificates of several captains and masters of ships, and others, both at sea and land, who have used the patentees engine for making salt water fresh.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18861</idno><idno type="EEBO-CITATION">99886610_195962</idno>
+  <idno type="VID">195962</idno>
+  <idno type="EEBO-PROQUEST">2264216064</idno>
+  
+            <idno type="STC">Wing C1769</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[102]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[157]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R226272</idno>
+            <idno type="PROQUEST">ocm99886610</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886610e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195962)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[104], E8:1[158])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The certificates of several captains and masters of ships, and others, both at sea and land, who have used the patentees engine for making salt water fresh.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Harefinch in Mountague-Court in Little Britain.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Inventions --  Early works to 1800.</term>
+               <term type="topical_term">Saline water conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195962:1"/>
+            <pb facs="tcp:195962:1"/>
+            <head>THE CERTIFICATES OF <hi>Several Captains and Masters of Ships, and others, both at Sea and Land, who have used the</hi> Patentees Engine <hi>for making</hi> Salt Water Fresh.</head>
+            <div type="certificate">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THIS serves only to acquaint you, that since I have been on board, in our Pas<g ref="char:EOLhyphen"/>sage to the Downs, I have us'd the En<g ref="char:EOLhyphen"/>gine off the <hi>Long-Sand-Head,</hi> and we made as much fresh Sea-water as boil'd Pease for the whole Ships company, they being boil'd as well as ever I see any; I find we can make above one hundred Gallons in 24 hours, if the Ship have no great motion, but if it hath much motion, then it will not make full so much Wa<g ref="char:EOLhyphen"/>ter. I believe it will prove a very useful thing at Sea. This being all needful from</p>
+               <closer>
+                  <dateline>
+                     <hi>Downs,</hi>
+                     <date>
+                        <hi>Octob.</hi> 22. 1684.</date>
+                  </dateline>
+                  <signed>Your very humble Servant, John Kempthorne.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <opener>
+                  <dateline>From on board the <hi>Elizabeth</hi> at <hi>Barbadoes,</hi>
+                     <date> January <hi>27th 1684.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>THESE are to acquaint you of our pro<g ref="char:EOLhyphen"/>ceeding with our Engine. I will give you a good Account of it, I find no otherwise by it; the Water we find very wholsom and benefi<g ref="char:EOLhyphen"/>cial, and the Engine works as well in foul Weather as in fair. We find that the more it is wrought the better it worketh, and the Wa<g ref="char:EOLhyphen"/>ter is the better. It is much esteemed on here, and abundance of People of all sorts resort dai<g ref="char:EOLhyphen"/>ly to see it, and drink of the Water; and we have wrought it most of the way hither.</p>
+               <closer>
+                  <signed>Jonathan Martin.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <opener>
+                  <dateline>From on board the <hi>May-flower</hi> at <hi>Mevis,</hi>
+                     <date>
+                        <hi>21th</hi> of February, <hi>1684.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>AS for the Engine, it works very well, and I have made use of it in my Passage near the <hi>Tropick</hi> in the <hi>Long Reach;</hi> and I find I can make above forty Gallons in twelve hours after it begins to work. I made in the <hi>Long Reach</hi> two Casks beside what I used, thinking to have brought one of them home; but the Gentlemen of <hi>Antegoe,</hi> and the strangers that came on board, desired so much to drink, and to have some in Bottles, that I spent them both. And since I came here, I have caus'd it to be wrought three several days on purpose for Merchants and Planters to see it, and a great many of them approved of it very well.</p>
+               <closer>
+                  <signed>Simon Corbin.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <opener>
+                  <dateline>From the said Ships again after their return.</dateline>
+               </opener>
+               <p>WE <hi>Jonathan Martin,</hi> Master of the <hi>Pink Elizabeth,</hi> and <hi>Simon Corbin,</hi> Master of the <hi>Pink May-flower,</hi> having aboard each of our said Ships an Engine bought of the Paten<g ref="char:EOLhyphen"/>tees for making Salt-water fresh, do certifie that we have made use of the said Engine going to and coming from the <hi>West-Indies,</hi> viz. <hi>Barba<g ref="char:EOLhyphen"/>does, Mevis,</hi> and <hi>Antego,</hi> and have found the Water prepared by them very wholsom, plea<g ref="char:EOLhyphen"/>sant and useful, and resolve for the future to continue the Use of such Engines.</p>
+               <closer>
+                  <signed>Jonathan Martin. Simon Corbin.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>I <hi>Evan Seyes,</hi> Master of the <hi>Jane</hi> of <hi>London,</hi> having sailed a long time in Company with a Ship furnish'd with an Engine for making Salt<g ref="char:EOLhyphen"/>water fresh, do hereby testifie, that having fre<g ref="char:EOLhyphen"/>quently drunk of the Waters so prepared a<g ref="char:EOLhyphen"/>board that Ship, and in several Climates, found the Men of the Ship in perfect good Health, and much pleased with the Water, which they made Use of, having no Meat or Drink, but what was prepared by the said Water.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated</hi>
+                     <date>
+                        <hi>February</hi> 2. 1684.</date>
+                  </dateline>
+                  <signed>Evan Seyes.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <head>Extract of a Letter to a Merchant in <hi>London.</hi>
+               </head>
+               <p>I desire that you will acquaint the Patentees that we have made Use of their Engine ever since we left the Coast of <hi>England,</hi> and that we find our Men very well pleased with the Use of it, being all in very good Health. Sign'd by <hi>John Clive,</hi> Supercargo of the <hi>Spanish</hi> Mer<g ref="char:EOLhyphen"/>chant.</p>
+               <closer>
+                  <signed>John Clive.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>I Do hereby certifie, that in the time of my being in the <hi>Leeward</hi> Islands, I did several times drink of Sea Water made fresh by the Patentees Engine, on board some Ships that came into those Parts; and found not only the Men who sailed in the said Ships, but those Persons on Shore, who drank frequently of the said Water, in good Health, notwithstanding the heat of the Climate, and great change of the Air, in which the Water was prepar'd: and am of Opinion that the use of the said Water is of great Advantage, not only to Ships, but to several parts of the World lying near the Sea, where the Water is Brackish, or there is no fresh Water.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>August</hi> 21. 1685.</date>
+                  </dateline>
+                  <salute>
+                     <hi>Signed by Sir</hi> William Stapleton <hi>Knt. Governour of the Leeward Islands.</hi>
+                  </salute>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>I <hi>John Frost,</hi> Captain, Master, and part Sharer of the <hi>Aleppo Factor,</hi> having receiv'd an Engine from the Patentees, for making Salt water Fresh, do hereby certifie, that many Months in the <hi>Streights</hi> and other places, I made use of Sea-water prepar'd on board my Ship by the Engine and Ingredients received from the Patentees, which Water I found by my self, Sea-men, and several other Persons, to be very good and wholesome; and the Engine to answer all that was promised in the Books printed by the Patentees.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Octob.</hi> 2. 85.</date>
+                  </dateline>
+                  <signed>John Frost.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>I Do hereby certifie, that having put on board a Ship, bound out on a long Voyage, an Engine bought from the Patentees for making Salt-water fresh, I receiv'd Letters from on board the said Ship four Months after her departure,
+<pb facs="tcp:195962:2"/>dated in <hi>April</hi> last past, which gives an account that the said Engine makes the Sea-water fresh in great quantities; and answers all the good Effects undertaken by the Patentees, and has been of great Use and Advantage to the said Ship, without any Inconveniencies.</p>
+               <closer>
+                  <signed>
+                     <hi>Witness my Hand, this</hi>
+                     <date>25th <hi>of November.</hi>
+                     </date>
+                     <hi>Geffery Nightingale,</hi> Merchant.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>HAving the Honour to command his Ma<g ref="char:EOLhyphen"/>jesties Ship <hi>Tiger,</hi> the last Year in the <hi>Streights,</hi> meeting with a Merchant-man tra<g ref="char:EOLhyphen"/>ding in those parts, I had the Curiosity to go and see his Engine, which he receiv'd from Mr. <hi>Fitz-Gerald,</hi> and the rest of his Partners, for turning Salt-water into fresh; which I found so well disposed of, before the Fore-mast in the Fore-Castle, that its Room was inconsiderable and out of Danger: and from the Captain, and the Men in particular, (in which I took some pains to ask Questions) I was well assu<g ref="char:EOLhyphen"/>red that the prepared Water was very good, and that they liked it as well as <hi>Thames</hi> Wa<g ref="char:EOLhyphen"/>ter, and had as good Health as ever they used to have. <hi>To which I set my Hand this</hi> 10th <hi>of Decemb.</hi> 1685.</p>
+               <closer>
+                  <signed>
+                     <hi>Signed by Sir</hi> Francis Wheler.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>I <hi>Peter Pickard,</hi> Commander of the <hi>Hunter,</hi> did furnish my self with a Salt-water En<g ref="char:EOLhyphen"/>gine from the Patentees, in <hi>Decemb.</hi> 1684. and do hereby certifie, that having made use seve<g ref="char:EOLhyphen"/>ral times of the said Engine in my last Voy<g ref="char:EOLhyphen"/>age, I found it to make the Sea-water very fresh, and good for dressing Victuals, and Drinking; which occasion'd me to recommend the same to be useful for the Royal <hi>African</hi> Company, in their Castle on <hi>James</hi>'s Island in <hi>Gambo</hi> River; they accordingly agreed with the Patentees for an Engine to send along with me to the said Place. <hi>Witness my Hand this</hi> 20th <hi>of Decemb.</hi> 1685.</p>
+               <closer>
+                  <signed>P. Pickard.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>I <hi>Matt. Tennant,</hi> having lately commanded His Majesties Ship the <hi>Guernsey,</hi> do hereby certifie, That in the time of my being at Sea, I met with several Ships, furnish'd by the Pa<g ref="char:EOLhyphen"/>tentees with an Engine for making Salt water fresh, and there received Account from the Persons who sailed in the said Ships, that the said Engines did make fresh very great quan<g ref="char:EOLhyphen"/>tities of Water, and were very useful and con<g ref="char:EOLhyphen"/>venient; and that the Persons in the said Ships, who had lived upon the Water so prepar'd, had very good Health, and were freet from the Scurvy than they used to be.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Decemb.</hi> 20. 85.</date>
+                  </dateline>
+                  <signed>Matt. Tennant.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <p>THese are to certifie, that in <hi>February</hi> last: by His Majesties Commands, the Paten<g ref="char:EOLhyphen"/>tees for making Salt-water fresh sent down, and for present Use fix'd in this place two of their En<g ref="char:EOLhyphen"/>gines; which made such good and acceptable water, that it was chosen rather than our Rain o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Thames</hi> Water, for any Use; especially to drink simply, or make Punch withall. </p>
+               <closer>
+                  <dateline>Given under my Hand in His Majesties Fort <hi>Sheerness, </hi>
+                     <date>
+                        <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> 2. 1685.</date>
+                  </dateline>
+                  <signed>Robert Crawford Lieutenant-Governour.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Opinion of several Eminent Physicians of the Colledge, and others, concerning Sea-Water made Fresh.</head>
+               <p>BEsides the Experience of the fore-going Sea-men in great and long Voyages, several Emi<g ref="char:EOLhyphen"/>nent Physicians of the Colledge, and others, have so well approved of this prepared Water, that they have directed the Use thereof in Diet-Drinks, Coffee, Chocolate, and Tea, instead of Fountain-Water. And the Physicians under written are of opinion, that it may be useful to the said purposes. And all agree, That Water prepar'd according to the Patentees way, is un<g ref="char:EOLhyphen"/>doubtedly good against Scurvys, and other Diseases.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <head>Sir <hi>Thomas Witherly,</hi> Praeses Collegii.</head>
+                        <item>Dr. <hi>Peter Barwick</hi>
+                        </item>
+                        <item>Dr. <hi>John Betrs.</hi>
+                        </item>
+                        <item>Dr. <hi>Humphry Brook</hi>
+                        </item>
+                        <item>Dr. <hi>Thomas Burwel</hi>
+                        </item>
+                        <item>Dr. <hi>Francis Bernard</hi>
+                        </item>
+                        <item>Dr. <hi>Edward Brown</hi>
+                        </item>
+                        <item>Dr. <hi>R. Blackbourn</hi>
+                        </item>
+                        <item>Dr. <hi>Walter Charleton</hi>
+                        </item>
+                        <item>Dr. <hi>Andrew Clinch</hi>
+                        </item>
+                        <item>Dr. <hi>Daniel Cox</hi>
+                        </item>
+                        <item>Dr. <hi>Theodore Colladon</hi>
+                        </item>
+                        <item>Dr. <hi>Andrew Creagh</hi>
+                        </item>
+                        <item>Dr. <hi>Edmund Dickinson</hi> Med. Reg.</item>
+                        <item>Dr. <hi>William Denton</hi>
+                        </item>
+                        <item>Dr. <hi>John Downes</hi>
+                        </item>
+                        <item>Dr. <hi>William Dawkins</hi>
+                        </item>
+                        <item>Dr. <hi>David Abercromby</hi>
+                        </item>
+                        <item>Dr. <hi>Charles Goodal</hi>
+                        </item>
+                        <item>Dr. <hi>Nehemiah Grew</hi>
+                        </item>
+                        <item>Dr. <hi>Philip Guide</hi>
+                        </item>
+                        <item>Dr. <hi>Edward Hulse</hi>
+                        </item>
+                        <item>Dr. <hi>Walter Harris</hi>
+                        </item>
+                        <item>Dr. <hi>George How</hi>
+                        </item>
+                        <item>
+                           <hi>Sir Edmund King,</hi> Eq. Aur.</item>
+                        <item>Dr. <hi>John Lawson</hi>
+                        </item>
+                        <item>Dr. <hi>Richard Lower</hi>
+                        </item>
+                        <item>Dr. <hi>Martin Lister</hi>
+                        </item>
+                        <item>Sir <hi>Thomas Millington</hi> Eq. Aur.</item>
+                        <item>Dr. <hi>Samuel Morris</hi>
+                        </item>
+                        <item>Dr. <hi>Richard Morton</hi>
+                        </item>
+                        <item>Dr. <hi>Walter Mills</hi>
+                        </item>
+                        <item>Dr. <hi>Walter Needham</hi>
+                        </item>
+                        <item>Sir <hi>William Petty,</hi> Eq. Aur.</item>
+                        <item>Dr. <hi>Robert Pitt</hi>
+                        </item>
+                        <item>Dr. <hi>George Rogers</hi>
+                        </item>
+                        <item>Dr. <hi>James Rufine</hi>
+                        </item>
+                        <item>Dr. <hi>Richard Robinson</hi>
+                        </item>
+                        <item>Sir <hi>Charles Scarburgh</hi> Eq. Aur. Med. Reg. prim.</item>
+                        <item>Dr. <hi>William Stokeham</hi>
+                        </item>
+                        <item>Dr. <hi>H. Sampson</hi>
+                        </item>
+                        <item>Dr. <hi>Thomas Sydenham</hi>
+                        </item>
+                        <item>Dr. <hi>Hans Sloane</hi>
+                        </item>
+                        <item>Dr. <hi>Frederick Slare</hi>
+                        </item>
+                        <item>Dr. <hi>David Thomas</hi>
+                        </item>
+                        <item>Dr. <hi>Edward Tyson</hi>
+                        </item>
+                        <item>Dr. <hi>William Waldgrave</hi>
+                        </item>
+                        <item>Dr. <hi>John Windebank</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="advert">
+               <p>These Engines, Ingredients, and Directions for the Operation, are to be had at Mr. <hi>William Talbot</hi>'s House, at the Sign of the <hi>Falcon</hi> and <hi>Scales</hi> in <hi>Gracious-street.</hi> And it is to be observed, that Engines may be made for Brew<g ref="char:EOLhyphen"/>ing, Dying, Hat-making, or other Uses, from ten Gallons to five hundred Gallons.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>John Harefinch</hi> in <hi>Mountague-Court</hi> in <hi>Little Britain.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
